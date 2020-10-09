@@ -1,0 +1,17 @@
+{
+  "SchemaVersion": 1,
+  "Name": "BetterBlink",
+  "ComponentId": "1689d8b2-c835-2e27-27ad-e894d6d15fa9",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "Gpio": [
+      "$RED1",
+      "$RED4",
+      "$GREEN2",
+      "$GREEN4",
+      "$BLUE3"
+    ]
+  },
+  "ApplicationType": "Default"
+}
